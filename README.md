@@ -1,4 +1,4 @@
-# space_pod
+# chat_mate
 
 A new Flutter project.
 
